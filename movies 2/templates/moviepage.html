@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ movie[1] }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body class="body">
+  <div class="header">
+    <ul>
+      <li>
+        <a href="/addMovie">Add Movie</a>
+        <a href="/">Movies</a>
+        <a href="/logout" id="logout">Logout</a>
+      </li>
+    </ul>
+  </div>
+
+  <h1 class="pageTitle" id="title">{{ movie[1] }}</h1>
+  <img  id="img" class="img" src="{{ movie[0] }}" alt="{{ movie[1] }}">
+    <form class="deleteForm" action="{{ url_for('movie_page', title=movie[1]) }}" method="POST">
+    <button type="submit" class="signup" id="delete">Delete Movie</button>
+  </form>
+  <table>
+    <tr>
+      <th>Description</th>
+      <td id="description">{{ movie[2] }}</td>
+    </tr>
+    <tr>
+      <th>Director</th>
+      <td id="director">{{ movie[3] }}</td>
+    </tr>
+    <tr>
+      <th >Cast</th>
+      <td id="cast">{{ movie[4] }}, {{ movie[5] }}, {{ movie[6] }}, {{ movie[7] }}</td>
+    </tr>
+    <tr>
+      <th>Year</th>
+      <td id="year">{{ movie[8] }}</td>
+    </tr>
+  </table>
+
+
+</body>
+</html>

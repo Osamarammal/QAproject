@@ -1,0 +1,144 @@
+2023-07-04 16:02:21,355:INFO:BaseClass:Moved to the add page
+2023-07-04 16:02:30,159:INFO:BaseClass:worked 
+2023-07-04 16:02:30,159:INFO:BaseClass:worked 
+2023-07-04 16:02:30,159:INFO:BaseClass:worked 
+2023-07-04 16:02:40,157:INFO:BaseClass:deleted 
+2023-07-04 16:02:40,157:INFO:BaseClass:deleted 
+2023-07-04 16:02:40,157:INFO:BaseClass:deleted 
+2023-07-04 16:02:40,157:INFO:BaseClass:deleted 
+2023-07-04 16:02:40,157:INFO:BaseClass:deleted 
+2023-07-04 16:02:44,623:INFO:BaseClass:Logout successful, user redirected to login page
+2023-07-04 16:02:44,623:INFO:BaseClass:Logout successful, user redirected to login page
+2023-07-04 16:02:44,623:INFO:BaseClass:Logout successful, user redirected to login page
+2023-07-04 16:02:44,623:INFO:BaseClass:Logout successful, user redirected to login page
+2023-07-04 16:02:44,623:INFO:BaseClass:Logout successful, user redirected to login page
+2023-07-04 16:02:44,623:INFO:BaseClass:Logout successful, user redirected to login page
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,319:ERROR:BaseClass:Admin user could not log in
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,331:INFO:BaseClass:Non-admin user could not access /addMovie
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:51,344:INFO:BaseClass:SQL Injection attempt was blocked
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:55,105:INFO:BaseClass:Login failed with invalid credentials as expected
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:02:58,737:INFO:BaseClass:Signup successful
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:06,075:INFO:BaseClass:Found 1 movies on the homepage
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:11,643:INFO:BaseClass:Movie added successfully
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:18,965:INFO:BaseClass:Logout process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:22,639:INFO:BaseClass:Signup process passed
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:25,924:INFO:BaseClass:Website is accessible
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
+2023-07-04 16:03:39,215:INFO:BaseClass:Add movie process passed
